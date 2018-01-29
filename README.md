@@ -1,1 +1,6 @@
-# Natural-Language-Processing
+# Natural Language Processing
+This repository aims to train NLP skills
+
+## Basic principles: 
+- Text classification (supervised learning): spam filtering, sentiment analysis...
+- Text clustering (unsupervised learning): assign topic to a text...
